@@ -1,0 +1,28 @@
+#weight {
+  width: 564px;
+  height: 500px;
+  margin: 50px auto;
+  text-align: center;
+  background: url(../images/bg2.jpg) no-repeat 100%;
+}
+#weight h1,
+#weight p,
+#weight ul li {
+  color: #fff;
+  line-height: 1.5;
+}
+#weight h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  font-style: oblique;
+  padding-top: 50px;
+}
+#weight p {
+  margin-top: 20px;
+  font-style: oblique;
+  display: inline-block;
+  background: rgba(255, 8, 8, 0.5);
+}
+#weight ul {
+  padding-top: 40px;
+}/*# sourceMappingURL=main.css.map */
